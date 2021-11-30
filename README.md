@@ -1,5 +1,7 @@
 # Computer-Repair
-## Computer Parts
+## PC/Computers
+- In order to know how to fix computers/PCs you know what parts go into building a computer/PC. On the next slide I will list the parts that go into building a computer/PC
+### Computer Parts
 - Case
 - Motherboard
 - CPU (Processor)
@@ -10,7 +12,7 @@
 - Monitor
 - Operating System
 - Input devices, mouse, keyboard
-### How to identify which hardware component is falling in your computer 
+#### How to identify which hardware component is falling in your computer 
 1. Blue screen 101 -The blue screen of death often displays information about the driver that crashed or the type of error it encountered.
 2. Check Hard Drive SMART Status - Hard drives have a built in S.M.A.R.T. (Self-Monitoring, Analysis, and Reporting Technology) feature. The idea is that the hard drive monitors itself and will notice if it starts to fail, providing you with some advance notice before the drive fails completely.
 3. Test RAM -If the computer writes data to RAM and the RAM returns different data because it’s malfunctioning, you may see application crashes, blue screens, and file system corruption.
