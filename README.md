@@ -1,5 +1,12 @@
 # Computer-Repair
-- First item
-- Second item
-- Third item 
-![shoe](81uiWMk9dnL._AC_UX395_.jpg)
+## Computer Parts
+- Case
+- Motherboard
+- CPU (Processor)
+- RAM (Memory)
+- Storage Device (SSD, NVME SSD, HDD)
+- Cooling (CPU, Chassis)
+- Power Supply Unit
+- Monitor
+- Operating System
+- Input devices, mouse, keyboard
