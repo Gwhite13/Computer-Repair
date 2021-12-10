@@ -19,3 +19,6 @@
 4. Check  Heat levels - Overheating can result in blue screens, crashes, and abrupt shut downs. Your computer may be overheating because you’re in a very hot location, it’s ventilated poorly, a fan has stopped inside your computer, or it’s full of dust.
 5. Stress Test CPU - You can use a utility like Prime95 to stress test your CPU. Such a utility will fore your computer’s CPU to perform calculations without allowing it to rest, working it hard and generating heat. If your CPU is becoming too hot, you’ll start to see errors or system crashes
 6. Stress test Graphics Card - Your graphics card can also be stress tested. For example, if your graphics driver crashes while playing games, the games themselves crash, or you see odd graphical corruption, you can run a graphics benchmark utility like 3DMark.
+- [Blue screen errors](https://youtu.be/oUN4nHN9R-I)
+- [Check Hard Drive & Testing RAM](https://youtu.be/o2K-p1YcP9Q)
+- [How to keep Computer from Overheating](https://youtu.be/LzzlC43cNAU)
